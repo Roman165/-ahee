@@ -416,7 +416,7 @@ body {
   .section__right {
     margin-left: 10%;
     color: #fff;
-    min-width: 300px; }
+    max-width: 300px; }
   .section__form {
     padding-right: 0;
     background-position: right;
@@ -481,6 +481,9 @@ body {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex; }
+  .section__contenti {
+    margin: 0;
+    padding: 0; }
   .section__image {
     width: 570px;
     max-width: 570px; }
