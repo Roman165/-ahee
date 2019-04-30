@@ -41,9 +41,7 @@ body {
 			@include tr(all, .5s);
 			}
 		&--footer {
-		align-self: center;
-		text-align: center;
-			
+
 		}
 	}
 	&__links {
@@ -88,7 +86,7 @@ body {
 	&__color {
 		color: #ff2b58;
 		padding: 0;
-		margin: 0;
+		margin: 20px;
 		text-align: right;
 	}
 }

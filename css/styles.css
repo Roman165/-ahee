@@ -370,7 +370,7 @@ body {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    padding: 10px;
+    padding: 20px;
     height: 100px;
     background-color: #262626; }
   .cahee__company {
@@ -378,13 +378,14 @@ body {
     -ms-flex-item-align: center;
     align-self: center; }
   .cahee__text {
+    text-align: center;
     font-size: 15px;
     -ms-flex-item-align: center;
     align-self: center; }
   .cahee__color {
     color: #ff2b58;
     padding: 0;
-    margin: 0;
+    margin: 20px;
     text-align: right; }
 
 .section {
