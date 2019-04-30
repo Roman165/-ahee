@@ -789,8 +789,6 @@ body {
       margin: 0; }
     .form__input::-webkit-input-placeholder {
       color: #fff; }
-    .form__input::-moz-placeholder {
-      color: #fff; }
     .form__input:-ms-input-placeholder {
       color: #fff; }
     .form__input::-ms-input-placeholder {
